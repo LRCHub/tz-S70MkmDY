@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "I cannot go back to you",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-02-13T05:15:28.520845Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I cannot go back to you",
+      "artist": "Chanmina",
+      "has_synced": true,
+      "path": "select/01_I_cannot_go_back_to_you_Chanmina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I cannot go back to you",
+      "artist": "CHANMINA",
+      "has_synced": true,
+      "path": "select/02_I_cannot_go_back_to_you_CHANMINA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I cannot go back to you",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_I_cannot_go_back_to_you_ちゃんみな.txt"
+    }
+  ]
+}
